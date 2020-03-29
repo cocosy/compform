@@ -1,0 +1,16 @@
+
+button{
+
+	padding:10px;
+	text-align: left;
+}
+
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+/*canvas {
+  display: block;
+}*/
